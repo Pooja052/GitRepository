@@ -1,3 +1,3 @@
 Hello World.
-This is Master.
-Welcome to Master.
+This is Git New Branch.
+Welcome to Git New branch.
